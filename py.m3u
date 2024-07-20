@@ -1,0 +1,111 @@
+#EXTM3U   
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HPieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="PARAGUAY", ABC PARAGUAY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gVnRbFjhESG1YDiY1CKxBE8kyIUMJ92LG_hy51JcHRZmPJwndsrpfR4jCFfXPfLMN5iG=w240-h480" group-title="PARAGUAY" , 4DmásNoticias TV 
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="PARAGUAY", ALMAYA TV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/bella-asuncion.jpg?itok=75VrMA1E" group-title="PARAGUAY", Bella Asunción TV
+https://tvdatta.com:3602/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1375103386308247557/mpsNXd-8_400x400.jpg" group-title="PARAGUAY", BM TV
+https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cp4zJ7O.png" group-title="PARAGUAY", C9N
+https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1253897472944062465/pqZXWzNU_400x400.jpg" group-title="PARAGUAY", CANAL 12 RTV
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1578044161629962241/X82rNJsQ_400x400.jpg" group-title="PARAGUAY", Caritas TV 680 AM
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F1tXGMUJwLXJv-8Za0De9xB36Q4z3FSAHyin48DGFbXg%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F5TjZFeGdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFxcG5UdFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTYwMzYyMTU1NDAwMA.webp&w=1920&q=75" group-title="PARAGUAY", DISMAR
+https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1192886528567119872/8yFiy1W6_400x400.jpg" group-title="PARAGUAY", EDUCANAL
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.faep26-1.fna.fbcdn.net/v/t1.6435-1/84649324_3437850246285792_7790620072745107456_n.jpg?stp=dst-jpg_p148x148&_nc_cat=104&ccb=1-6&_nc_sid=1eb0c7&_nc_eui2=AeFbhpRVVIp2jmtKuaS73DJll-0fYqam362X7R9ipqbfrbqTdZJeWpLXN5GV701WDm0&_nc_ohc=LCJ57mP1HVsAX-KGhVW&_nc_ht=scontent.faep26-1.fna&oh=00_AT8yZ_QbWrylzLS96yuhZ2SrHK852z35HB2JydHG7wPsmw&oe=629DA4FF" group-title="PARAGUAY", ESTACION CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1323264654479675393/PiSulaAu_400x400.jpg" group-title="PARAGUAY", FARRA PLAY
+http://159.203.148.226/live/farra.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1293282227737026567/gYgmzXBw_400x400.jpg" group-title="PARAGUAY", GUAIRA TV AM 840
+https://tvdatta.com:3991/live/guairatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/Go-radio.jpg?itok=blyzvrgl" group-title="PARAGUAY", GOTV 
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/tv/images/logo.png" group-title="PARAGUAY", Más TV
+https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSf4I_R1G56Yu1PLHToQLzOKtU6j_LxIbCTAaKV=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", Mega TV
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GKj8jW44eq__taywN5N3m6B1KYuQ2bznKzsbcad-PtT2fh8W0D61iEvZyG2VeRP8nw" group-title="PARAGUAY", MI TV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-Ipfa58Os5hyjNK0hSoe7ds4wBrNdCYyMwNAXZcyZ0hR3p2KTEGgdgJObZp1MXwMM6gSvPwCyw=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", Motor Sur Media
+https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455129807579193346/SOg3tc23_400x400.jpg" group-title="PARAGUAY", ÑANDUTI TV
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s13903/images/logog.png?t=156708" group-title="PARAGUAY", Obedira TV
+https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="PARAGUAY", Oviedo TV
+https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1222519766193262597/UZsxHbU4_400x400.png" group-title="PARAGUAY", RCC
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4eb3qaIqcLv6SkuDbFGkOD4ibEvs9gQwfj0DNd1PBixmcG54A4xqJ9mcl64HavnKdSM&usqp=CAU" group-title="PARAGUAY", República TV 101.3 FM
+https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvP2v09B-KKl8qVCBt26RSdBIQok3IxFGSX-keb98RCAkmLgyphFZg69riXEvIJDBaic&usqp=CAU" group-title="PARAGUAY", RTV 12
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWR3END.png" group-title="PARAGUAY", Somos Cultura TV
+https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1467813575402135561/Te07-zBu_400x400.jpg" group-title="PARAGUAY", SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-19 tvg-logo="https://pbs.twimg.com/profile_images/1286075367590174723/rAFeC58U_400x400.jpg" group-title="PARAGUAY", SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" group-title="PARAGUAY", Trece Paraguay
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/TVA.jpg?itok=HVMEbTFr" group-title="PARAGUAY", TVA
+https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY", TV MAX
+https://tvmaxsa.com.py/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7L_epfMy3zUtvTFCmKujhGvQY2s29-73EPiQMEZOaiuE1ZIRDRVKOqiQtjefXJI2Hc0Y&usqp=CAU" group-title="PARAGUAY", TVS ENCARNACION
+https://rds3.desdeparaguay.net/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1133003888121057282/3lTs7RpV_400x400.jpg" group-title="PARAGUAY", TVS ENCARNACION
+https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkigU_iIPBm8Clfg7xNOA7ABuwk92uf4XvUvhTuO7Uu6D9DbQyTiPczaOApNBBDrqn_Z4&usqp=CAU" group-title="PARAGUAY", UGA TV
+https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVlVtFlS4UMIOo2EGQGQJObwqHQTb24ryfT8Jh2Sx5tTouM8gpPwDHcBk2qR8lW9NlmvQ&usqp=CAU" group-title="PARAGUAY", Uniradio TV 
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="PARAGUAY", Unicanal
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://rndserv.xyz/img/venusmedia.png" group-title="PARAGUAY", Venusmedia
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+
