@@ -1,0 +1,82 @@
+#EXTM3U  
+
+#EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec" tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Undefined",Antena Uno RadioVideo (360p)
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLVKLqH/asomavision.png" group-title="ECUADOR", ASOMAVISION
+https://asomatv.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToyfBS9QC8sXzVO1q3DPRmViNzDb2u2owPMXd9acAwsjzNFZGYv5Mf4ruC-WY_hGlsXsM&usqp=CAU" group-title="ECUADOR", Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM2dStS/ecotel.jpg" group-title="ECUADOR", ECOTEL
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuavisa
+https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png" group-title="ECUADOR", Educa TV
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1300490998494253062/1lW1Zvuv_400x400.jpg" group-title="ECUADOR", El Sol Radio y Television
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmmundo.com/wp-content/uploads/2019/10/Logo-Fm-Mundo-radio.png" group-title="ECUADOR", FM Mundo
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5HoNzbWslUi8qN2vY1B7roe5dj08bqYAfaiLQ7jNasqJq6YDh9ThxQw_AJxVAmMNv28&usqp=CAU" group-title="ECUADOR", Hechos Ecuador
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="ECUADOR", Inti TV
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="ECUADOR", Latacunga TV
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="ECUADOR", Loreto TV
+https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="ECUADOR", Majestad Televisión
+https://go.majestadtv.ec/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="ECUADOR", Manavisión
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg" group-title="ECUADOR", Multicanal Catamayo
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgajdRlrUffkWcPNqdzDzpHNOIftqmMjUnaHSTcKDhirKejsxZaJgj5aTIYyRmPp35UAg&usqp=CAU" group-title="ECUADOR" , Nortvisión
+https://plataformavideo.com/live/nortvision.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="ECUADOR", Puruwa TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1011616959509794816/N-BNm8R8_400x400.jpg" group-title="ECUADOR", Radio Impacto 2
+https://sv72.ecuaradiotv.net/impacto2tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="ECUADOR", RTS
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="ECUADOR", RTU
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="ECUADOR", Sono Onda TV 
+https://live.obslivestream.com/sonoondatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C5603AQGLPsna9zkgjg/profile-displayphoto-shrink_200_200/0/1516789018223?e=1693440000&v=beta&t=IPs3qZq7e2AQutANDjLYqkP6NXhKzKG93UNNZBLp5D4"  group-title="ECUADOR", Telerama
+https://envivo.telerama.ec/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9eeLsgg.png" group-title="ECUADOR", TV Legislativa
+http://181.198.32.153:8080/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6h5Cz2.png" group-title="ECUADOR", TVC
+https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR", UCSG TV
+https://ythls.armelin.one/channel/UCH5499PHqkqKPsGEUJl5lZg.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Wuan%2B_logo.png" group-title="ECUADOR" , Wuan+
+https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdSO7856kPDdqYxdWM7b302mvMwgID635ypJKPUJQtmeT40CXz80p3Vt-Gz7wl9ibceE&usqp=CAU"  group-title="ECUADOR", Zaracay TV
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
