@@ -1,0 +1,138 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA", Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/135_Telepacifico.png" group-title="COLOMBIA", TELEPACIFICO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1369740162943643650/p_FdgcvB_400x400.jpg" group-title="COLOMBIA", CANAL TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-53_HtUb3jnc/XzgiULPdOxI/AAAAAAAA4Yg/u_kS47iatBgohPcQ3uOpO8Rz7r5RMBARwCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dPA6bh64tcI/XzghIjDoh4I/AAAAAAAA4X0/BDRF4nE5JcMLVsGEmJFyE_uSlqcmK5QmwCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA", CANAL TRECE
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA", Amordiscos TV 
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ATN_Televisi%C3%B3n_logo.svg/1200px-ATN_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", ATN Televisión
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/50545.v16.png" group-title="COLOMBIA", ATV
+https://movil.ejeserver.com/live/verteve.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b76700d635ef6272ba8cc8e9c7733f59.webp" group-title="COLOMBIA", Avivamiento TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/ede5612434f0d2cb2a8a7a73dadbf5c5.png" group-title="COLOMBIA", Buenisima Radio TV
+https://ythls.onrender.com/channel/UCk20PydKzK3giq80G4mqSeg.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/113_Cali_TV.jpg" group-title="COLOMBIA", CALI TV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Canal-Campo-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="COLOMBIA", Campo Televisión
+https://video17.virtualtronics.com/streamer/canalcampotv.m3u8 
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="COLOMBIA", Canal 2 Cali
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t39.30808-6/323233804_491120596467116_3095873227067753375_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeFEWYTvFva7kWyoKqGe-sZoatgClUkggsRq2AKVSSCCxDd1zWiv0Gn1jgXFHDqTq7U&_nc_ohc=EY3f9shdvcwAX-DTVQv&_nc_oc=AQkpKFSRPAEWXK9pvMcsm3CUb_ZjF-Itu4HsQ-bdJOUJsEFbLd-4rdsnupeVktznTTOwLHRz3UTQhsasQE6UYVxq&_nc_ht=scontent.fepa11-1.fna&oh=00_AfDkpmMcYEevnoMucy5cs-giytHaYrN8qpygkLq2FMtsAg&oe=65068284" group-title="COLOMBIA", Canal 2 Alpavisión
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/c9/d7/51/c9d75186-ef6f-6013-15c2-b1087a150bca/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" group-title="COLOMBIA", Canal 14 Codazzi
+https://eu1.servers10.com:8081/8056/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1598676751797964801/-sdtxZ1z_400x400.jpg" group-title="COLOMBIA", Canal Dos Yopal
+https://canaldos.internetinalambrico.com.co:1936/live/canal2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/120_Canal_Institucional.png" group-title="COLOMBIA", CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217908523138416640/GxKYl3a8_400x400.jpg" group-title="COLOMBIA", Canal RCN Novelas
+http://45.179.140.242:8000/play/a0jf
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTW-YSLuqGgVt6xDS4Jmz4Lm2CS_6EBxybx7qoJow=s900-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", Canal Telefamilia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ciXiwbeorMRrWZh16sJVtzelQ6m-G41_nJ9pX3BRRvLLJYuhSyFcN9kALTkN3YBM_g" group-title="COLOMBIA", Canal TelePalmar
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalvip.tv/images/2019/10/21/banner-canal-vip.jpg" group-title="COLOMBIA", Canal VIP
+https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1260414838741876738/b_DeaX7e.jpg" group-title="COLOMBIA", Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UZkJKjZ9MufIY6YzqxY4rt34KttRcent6zBas6QrSNkkoocss-34CphnT2Nv2GEJnOk=w240-h480-rw" group-title="COLOMBIA", CNC Medellín
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UZkJKjZ9MufIY6YzqxY4rt34KttRcent6zBas6QrSNkkoocss-34CphnT2Nv2GEJnOk=w240-h480-rw" group-title="COLOMBIA", CNC Monteria
+https://stmv4.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1058408219188645888/Y949CQyA_400x400.jpg" group-title="COLOMBIA", Cosmovisión 
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/126_CTV.jpg" group-title="COLOMBIA", CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiobells.media/stations/eduvisionlabasica.jpg" group-title="COLOMBIA", Eduvision
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/famili-channel-5336.jpg" group-title="COLOMBIA", Famili Channel
+https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HdjPvwFctpCGu6t4QozAW_MTiFy6oFJQHOMvICOW5tTZL0nHIMbJRKnKU32r1A8CMjZrq2Df2A=s900-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", Huila TV 
+https://plataformavideo.com:19360/8020/8020.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/f3abe4415e90765f85d20737dcfdb006.png" group-title="COLOMBIA", La Despechada TV 
+https://servidordevideo.co:3077/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t39.30808-6/292349370_435502571922883_1584856281682034978_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeG4qO-XR2iEv0n5e2J2g-OTkJlqkZ0iX7iQmWqRnSJfuG3uFh0e65na5VtIxdjdzRE&_nc_ohc=NtRAjWDHKPIAX9CGlRL&_nc_ht=scontent.fepa11-1.fna&oh=00_AfAtE6BcCN7V4Ifmu2nhepBfTcJGtYTfnmnrQtJFdmjOQg&oe=650A479E" group-title="COLOMBIA", Más TV
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fi14kFHlmlI/XzgjcIL28eI/AAAAAAAA4ZU/8aEsOJObOc8w9ghnCmLa2N_4bcmcVTLbwCK8BGAsYHg/s0/2020-08-15.jpg" group-title="COLOMBIA",  Melody Channel TV 
+https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/278022966_393881989407875_4026753574989340289_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFPl3urn7ZpmeHNTilmpuYtarWmO8BKddlqtaY7wEp12UIaeGwz0r3hDQOMe978bK8&_nc_ohc=Kvl-bskVT7oAX-H96fp&_nc_ht=scontent.faep7-1.fna&oh=00_AfAE_vhMeA8gamedAWnQnUGVuAbpJOwj8Shx0vu_f7CjuA&oe=65E2E0AE" group-title="COLOMBIA",  Moni TV 
+https://play.amelbasoluciones.co:3847/live/monitvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/multicanal.jpg?itok=gMLVDInf" group-title="COLOMBIA", MULTICANAL
+https://ssh101.bozztv.com/ssh101/KIOCApP/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png" group-title="COLOMBIA", Noticiero 90 Minutos
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/e2/82/2c/e2822c25-cc28-a19c-a634-92e67c65b4d1/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="COLOMBIA", PSC
+https://stmv4.voxtvhd.com.br/psctv/psctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vyt5Jhg2zHM/Xzgifjcw9EI/AAAAAAAA4Yo/w6AHqx1V86URrFxDMQ7mjNIZ9b97NbjswCK8BGAsYHg/s0/2020-08-15.jpg"  group-title="COLOMBIA", TDI
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-g_dUHOwBNAM/YE1OKFJDbwI/AAAAAAABAnM/iSrlgpU84ho1Sh6R_8hKrN9DaJFg043NQCK8BGAsYHg/s512/2021-03-13.png"  group-title="COLOMBIA", Tele Familia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png"  group-title="COLOMBIA", Telemusica
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-IjTc4ETC9nM/YJrm_HJajaI/AAAAAAABCPA/SwuODmd0rtIduTCeQniwOaSBvR_YqDykgCK8BGAsYHg/s512/2021-05-11.png"  group-title="COLOMBIA",  TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DZadlN6RVe8/YE1PBh6hqPI/AAAAAAABAnc/ehjxHbBo-eMdLgTa3nzFJPjHq6kpWZgLgCK8BGAsYHg/s512/2021-03-13.png" group-title="COLOMBIA", TV Gracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/860_TV_Penol.png" group-title="COLOMBIA", TV PEÑOL
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/139_UAO_Play.jpg" group-title="COLOMBIA", UAO PLAY
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png" group-title="COLOMBIA", Veo TV
+https://movil.ejeserver.com/live/veotv.m3u8
+
+
