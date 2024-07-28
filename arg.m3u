@@ -7,7 +7,7 @@ http://181.191.140.2:8000/play/a0gv/index.m3u8
 http://181.191.140.2:8000/play/a0gu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Tango Sports", ESPN 3
-http://181.78.82.59:27000/play/a02j/index.m3u8
+http://181.191.140.2:8000/play/a0gw/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Tango Sports", ESPN 4
 http://190.11.130.46/mnp/espn_extra/output.mpd
