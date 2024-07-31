@@ -1,4 +1,7 @@
 #EXTM3U  
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="Tango Sports", TV PUBLICA  
+http://181.191.140.2:8000/play/a0gq/index.m3u8
   
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN  
 http://181.191.140.2:8000/play/a0gv/index.m3u8
@@ -72,7 +75,7 @@ http://181.191.140.2:8000/play/a0gf/index.m3u8
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+http://181.191.140.2:8000/play/a0gq/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
 http://190.11.130.46/mnp/elnueve/output.mpd
