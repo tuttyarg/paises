@@ -367,6 +367,8 @@ http://38.43.151.206:8000/play/a05z/index.m3u8
 http://38.43.151.206:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", 113 Las Estrellas HD
 http://38.43.151.206:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Telenovelas
+http://181.176.153.106:8090/play/a0ox/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", 114 TNT Novelas
 http://38.43.151.206:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", 115 RCN Novelas
