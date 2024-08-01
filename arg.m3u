@@ -7,7 +7,16 @@ http://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
 http://181.191.140.2:8000/play/a0gq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="Tango Sports", CLARO SPORTS JJOO
-https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
+https://pubads.g.doubleclick.net/ssai/event/qrZ47XNwQ6--4BaOTYV12g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="Tango Sports", CLARO SPORTS 2 JJOO
+https://pubads.g.doubleclick.net/ssai/event/NJWUAFmXSz691nhm2fwjhw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="Tango Sports", CLARO SPORTS 3 JJOO
+https://pubads.g.doubleclick.net/ssai/event/waSJNqdnQ-O7oN5y2A4NGA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="Tango Sports", CLARO SPORTS 4 JJOO
+https://pubads.g.doubleclick.net/ssai/event/iEXSIQsvRn6HP2Ckpuah1A/master.m3u8
   
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN  
 http://181.191.140.2:8000/play/a0gv/index.m3u8
