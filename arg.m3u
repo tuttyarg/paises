@@ -1062,19 +1062,19 @@ https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 http://190.103.192.6:8080/hls/mystreamkey.m3u8  
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 MAR DEL PLATA
-https://streamconex.com:1936/mardelplata/mardelplata/chunklist_w21108276.m3u8
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 SANTA CLARA DEL MAR
-https://streamconex.com:1936/santaclara/santaclara/chunklist_w1081202181.m3u8
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 LA COSTA
-https://streamconex.com:1936/lacosta/lacosta/chunklist_w643362361.m3u8
+https://streamconex.com:19360/lacosta/lacosta.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 PUAN
-https://streamconex.com:1936/puan/puan/chunklist_w1243153313.m3u8
+https://streamconex.com:19360/puan/puan.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 VILLA MAZA
-https://streamconex.com:1936/villamaza/villamaza/playlist.m3u8
+https://streamconex.com:19360/villamaza/villamaza.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="PCIA BS AS", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8  
@@ -4068,19 +4068,19 @@ https://wowza.telpin.com.ar:1935/camara-rambla/camara-rambla.smil/playlist.m3u8
 https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
-https://streamconex.com:1936/mardelplata/mardelplata/chunklist_w1822903658.m3u8
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SANTA CLARA DEL MAR
-https://streamconex.com:1936/santaclara/santaclara/chunklist_w1631229123.m3u8
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 LA COSTA
-https://streamconex.com:1936/lacosta/lacosta/chunklist_w1898224032.m3u8
+https://streamconex.com:19360/lacosta/lacosta.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 PUAN
-https://streamconex.com:1936/puan/puan/chunklist_w897436817.m3u8
+https://streamconex.com:19360/puan/puan.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 VILLA MAZA
-https://streamconex.com:1936/villamaza/villamaza/chunklist_w1353595172.m3u8
+https://streamconex.com:19360/villamaza/villamaza.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 VILLA GESELL
 http://cam104y3.gesell.com.ar/playlist.m3u8
