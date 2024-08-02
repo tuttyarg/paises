@@ -4202,7 +4202,7 @@ https://ythls-v3.onrender.com/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ObSd5f3r6-fBE-4PVZk7wF46nB1l2jVbKE-23jJpocg6I-CjycFUyR03aQPuRNdBVOnKX9kRQA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LA CASA STREAMING 
 https://ythls-v3.onrender.com/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aTw53D60RiGJHPx9mvShHRkbzK9tMQXrFIq29TXzXvnLaRm7rkMipeq01-T01pXiMJyrXaqxlOQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", AZZ
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jdYIssLgCs53GcfKQMr4WPBjRp01-bG7DOCFd7kQEyojHRo1G2s5OUKQuTQHA4ua65SMl366FWA=s160-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", AZZ
 https://ythls-v3.onrender.com/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEATPU2rMqerCid0coyZKs0xrv2MB7hsQy0EW2e0z1pVW9cbDrLTrluWqlI_D2UaTxhPF-TFiA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Bondi Live
@@ -4213,6 +4213,9 @@ https://ythls-v3.onrender.com/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Telefe YT STREAM
 https://ythls-v3.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HIeucb9xdTW5Hh7kkhDiROU7zLO6fNzn6q_fDvgFr_fD2qFH1vT-8U2OdOf0Pb_VCvmD-PClgQ=s160-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", TyC Sports YT STREAM
+https://ythls-v3.onrender.com/channel/UC72ZaBKI-Bo5fjmWEYonhJw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZUAZtUv4nPqv-cDM9NBOvMkFPsgM9y0jHRCXlrPQ=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", UNQtv
 https://ythls-v3.onrender.com/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8  
