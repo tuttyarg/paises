@@ -1831,7 +1831,8 @@ https://inliveserver.com:1936/12006/12006/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
+https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zerofm.com.ar/wp-content/uploads/2020/05/radiozero-200.png" group-title="RIO NEGRO", RADIO ZERO 94.5 FM CATRIEL
 https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
