@@ -107,7 +107,9 @@ http://190.11.130.46/mnp/espnpremium/output.mpd
 http://190.11.130.46/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", tvradiozap.eu
-https://tvradiozap.eu/tools/yt.m3u8.php/@c5n.m3u8
+https://tvradiozap.eu/tools/yt.m3u8.php/@canalciudadba.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls-v3.onrender
+https://tvradiozap.eu/tools/yt.m3u8.php/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls-v3.onrender
 https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls.armelin
