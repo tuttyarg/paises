@@ -15,14 +15,6 @@
 
 
 
-#EXTINF:-1,LIGA ARGENTINA: TNT SPORTS HD
-http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181744
-#EXTINF:-1,LIGA ARGENTINA: TNT SPORTS SD
-http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181745
-#EXTINF:-1,LIGA ARGENTINA: ESPN PREMIUM
-http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181740
-#EXTINF:-1,LIGA ARGENTINA: ESPN PREMIUM op2
-http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181741
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 
 https://is-cableat.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
