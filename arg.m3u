@@ -193,6 +193,9 @@ http://181.191.140.2:8000/play/a0ft/index.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS
 http://190.11.130.46/mnp/ip/output.mpd 
 
@@ -225,6 +228,64 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NOTICIAS NACIONALES", EL TRECE NOTICIERO 
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", EXTRA TV  
+https://tvradiozap.eu/tools/yt.m3u8.php/@canalextratv.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 
+https://tvradiozap.eu/tools/yt.m3u8.php/@ElDestapeTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OttUuKTaZLo0tUG6D9uG2_ZRIt7EaVN7_tVQIO4R3NHwb3QZdyBxK01CTn5JsOhVVdiAdUH2_nY=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Telefe Noticias
+https://tvradiozap.eu/tools/yt.m3u8.php/@Telefenoticias.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
+https://tvradiozap.eu/tools/yt.m3u8.php/@Radiomitre.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Radio_Rivadavia_%282020%29.png/800px-Radio_Rivadavia_%282020%29.png" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
+https://tvradiozap.eu/tools/yt.m3u8.php/@RadioRivadaviaAM630.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="NOTICIAS NACIONALES", RADIO CONTINENTAL AM 590
+https://tvradiozap.eu/tools/yt.m3u8.php/@radiocontinental590.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/z5OyIisNuuoNMsoe5L13VtY2gEBqBLxr3Qz6XUpEyv35AKcU3MLBriN72R2XHFmK0Dn-Qkjfnvk=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO 10 AM 710
+https://tvradiozap.eu/tools/yt.m3u8.php/@Radio10am.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JxTyO3fqqzmDMpm3NVF8wEZuuyGdJGlYHo4kSjo9BwGEZmuHL5rq3GhMbAjNHb82v20FId6AdQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio La Red AM 910
+https://tvradiozap.eu/tools/yt.m3u8.php/@radiolared.m3u8
+
+#EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
+https://tvradiozap.eu/tools/yt.m3u8.php/@DelPlataAM-sd3zr.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
+https://tvradiozap.eu/tools/yt.m3u8.php/@ElObservador107.9.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
+https://tvradiozap.eu/tools/yt.m3u8.php/@DTVDIPUTADOSTELEVISION.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xK2UU-mjcRno8NcJSFnE9VRaIY_-TRaKNa3Nkyca7ZMxUeFrIIZGk9YsltI64rdmaHgyOQowFg=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Splendid AM 990
+https://tvradiozap.eu/tools/yt.m3u8.php/@splendidam990.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cz7jeL0VIqd7P4jfb-6G9zFvoitju6SeHcf2cCcuUr-NH6lvPYjjp9iEYhAdC72jSzDK4zWf=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Neura Media
+https://tvradiozap.eu/tools/yt.m3u8.php/@NeuraMedia.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yDu32Wsa3T7E1q2L44Hl2lzrBrKiUxVYXL9m8QinTUJ7Km8bQDhx1A9_GvuvtiPtKWWbk6yOvi8=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Vocería Presidencial
+https://tvradiozap.eu/tools/yt.m3u8.php/@VoceriaPresidencial.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PUZaouBDWH1vPzIAzqIXsn8xx3M_SdIa4gxncu61_dE6FRDOXTDD0TRAj9Inp2vDr7oELMwHuA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
+https://tvradiozap.eu/tools/yt.m3u8.php/@Ahora_Play.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
+https://tvradiozap.eu/tools/yt.m3u8.php/@clarincom.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRViyhqrK_4KgGtkRD8XC5a0VtNWvkIZIvpDSOuKQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Perfil - Eventos
+https://tvradiozap.eu/tools/yt.m3u8.php/@perfiltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AtGjuO-bEPxnvAcBcrguBz2Dvg0fm7tmk3M92HQpjQdXRxI55XTX1XX_p_OF-Sme-d1J0LP8tA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Infobae - Eventos
+https://tvradiozap.eu/tools/yt.m3u8.php/@Infobae.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", SENADO TV (SOLO SESIONES)
+https://tvradiozap.eu/tools/yt.m3u8.php/@SenadoTVArgentina.m3u8
+
 
 
 
@@ -357,7 +418,7 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
-#EXTM3U
+
 
 
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", 101  Limites
@@ -520,7 +581,7 @@ http://38.43.151.206:8000/play/a06v/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
-https://ythls-v3.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
+https://tvradiozap.eu/tools/yt.m3u8.php/@luzutv.m3u8
 
 
 
@@ -532,7 +593,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", FRANCE 24 ESPAÑOL
-https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://tvradiozap.eu/tools/yt.m3u8.php/@France24_es.m3u8
 
 #EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-chno="280" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="NOTICIAS INTERNACIONAL",Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -591,8 +652,11 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/57c240242b6d1a5c925fe521bb936a79a60d1fa5d2ec8e93ee7f5a1c97bd163c.png" group-title="NOTICIAS INTERNACIONAL", TVGE
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ll92OqxwOp3LzbIrIYDBO3K5WQK6q7xfJ3DCKrxQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CNN BRASIL
+https://tvradiozap.eu/tools/yt.m3u8.php/@CNNbrasil.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQqZkqkHW3D4oDj5kPgt5TO9LJ3YEiu9Ye-ToJBnw=s176-c-k-c0x00ffffff-no-rjj" group-title="NOTICIAS INTERNACIONAL", Television Canaria
+https://tvradiozap.eu/tools/yt.m3u8.php/@TelevisionCanaria.m3u8
 
 
 
@@ -658,7 +722,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06b
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f6294449839300085c4bd2/colorLogoPNG.png" group-title="INFANTIL", Rincon de luz
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63f6294449839300085c4bd2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-https:/
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="INFANTIL", SUPER CAMPEONES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -4122,71 +4186,9 @@ http://camlapinocha.gesell.com.ar/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", EXTRA TV  
-https://ythls-v3.onrender.com/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 24.6
-https://ythls-v3.onrender.com/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OttUuKTaZLo0tUG6D9uG2_ZRIt7EaVN7_tVQIO4R3NHwb3QZdyBxK01CTn5JsOhVVdiAdUH2_nY=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Telefe Noticias
-https://ythls-v3.onrender.com/channel/UChxGASjdNEYHhVKpl667Huw.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
-https://ythls-v3.onrender.com/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Radio_Rivadavia_%282020%29.png/800px-Radio_Rivadavia_%282020%29.png" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
-https://ythls-v3.onrender.com/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="NOTICIAS NACIONALES", RADIO CONTINENTAL AM 590
-https://ythls-v3.onrender.com/channel/UC7fedBVCaVPhMNI_axwg69w.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/z5OyIisNuuoNMsoe5L13VtY2gEBqBLxr3Qz6XUpEyv35AKcU3MLBriN72R2XHFmK0Dn-Qkjfnvk=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO 10 AM 710
-https://ythls-v3.onrender.com/channel/UCJozD5RVug7EZdTjqkGISYQ.m3u8  
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JxTyO3fqqzmDMpm3NVF8wEZuuyGdJGlYHo4kSjo9BwGEZmuHL5rq3GhMbAjNHb82v20FId6AdQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio La Red AM 910
-https://ythls-v3.onrender.com/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
-
-#EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
-https://ythls-v3.onrender.com/channel/UCz9Z9Qu-eZDkDnQ6lgI1YSQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
-https://ythls-v3.onrender.com/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
-https://ythls-v3.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xK2UU-mjcRno8NcJSFnE9VRaIY_-TRaKNa3Nkyca7ZMxUeFrIIZGk9YsltI64rdmaHgyOQowFg=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Splendid AM 990
-https://ythls-v3.onrender.com/channel/UC8_LjUd3lB3pr64NDs8o4tA.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cz7jeL0VIqd7P4jfb-6G9zFvoitju6SeHcf2cCcuUr-NH6lvPYjjp9iEYhAdC72jSzDK4zWf=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Neura Media
-https://ythls-v3.onrender.com/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yDu32Wsa3T7E1q2L44Hl2lzrBrKiUxVYXL9m8QinTUJ7Km8bQDhx1A9_GvuvtiPtKWWbk6yOvi8=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Vocería Presidencial
-https://ythls-v3.onrender.com/channel/UCCSbOixo2xpZc_oToqeq2jQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PUZaouBDWH1vPzIAzqIXsn8xx3M_SdIa4gxncu61_dE6FRDOXTDD0TRAj9Inp2vDr7oELMwHuA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
-https://ythls-v3.onrender.com/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
-https://ythls-v3.onrender.com/channel/UCjMGMWnToRcQRqmyVB4R2xQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRViyhqrK_4KgGtkRD8XC5a0VtNWvkIZIvpDSOuKQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Perfil - Eventos
-https://ythls-v3.onrender.com/channel/UCl6L85YuyK4rVn5NI--dHUw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AtGjuO-bEPxnvAcBcrguBz2Dvg0fm7tmk3M92HQpjQdXRxI55XTX1XX_p_OF-Sme-d1J0LP8tA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Infobae - Eventos
-https://ythls-v3.onrender.com/channel/UCvsU0EGXN7Su7MfNqcTGNHg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", SENADO TV (SOLO SESIONES)
-https://ythls-v3.onrender.com/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
-
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", FRANCE 24 ESPAÑOL
-https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ll92OqxwOp3LzbIrIYDBO3K5WQK6q7xfJ3DCKrxQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CNN BRASIL
-https://ythls-v3.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQqZkqkHW3D4oDj5kPgt5TO9LJ3YEiu9Ye-ToJBnw=s176-c-k-c0x00ffffff-no-rjj" group-title="NOTICIAS INTERNACIONAL", Television Canaria
-https://ythls-v3.onrender.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fFQhXC5i5_BqbrkaWhpHPENuEvWk4rXuuxgPM15cUQrBkjIqJrFfIzPgOvwznvWhfoMHrEHxYnQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", OLGA
 https://ythls-v3.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
