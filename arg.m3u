@@ -144,7 +144,7 @@ http://181.191.140.2:8000/play/a0fl/index.m3u8
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wt94ulT522DHedSNj6m-PCw3tWpBMN7LF0VhIslu4x1-udZ9CtMUrHpFQZQ-U97HPIY=w240-h480" group-title="NACIONALES", UNIFE
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1694000298&e=1694000418&h=39bea3dca2e5ba6c6e0fcda0b14067b8
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/11/logoweb2022.jpg" group-title="NACIONALES", SOLIDARIA TV ARGENTINA
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
