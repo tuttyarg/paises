@@ -1,5 +1,56 @@
 #EXTM3U  
 
+
+#EXTGRP:ESPANOL
+#EXTINF:-1,24 Horas (Chile)
+https://tvradiozap.eu/tools/yt.m3u8.php/@24Horas_TVNChile.m3u8
+#EXTINF:-1,A24
+https://tvradiozap.eu/tools/yt.m3u8.php/@A24com.m3u8
+#EXTINF:-1,C5N
+https://tvradiozap.eu/tools/yt.m3u8.php/@c5n.m3u8
+#EXTINF:-1,Cadena 3 (Argentina)
+https://tvradiozap.eu/tools/yt.m3u8.php/@cadena3.m3u8
+#EXTINF:-1,Can Pastilla Webcam
+https://tvradiozap.eu/tools/yt.m3u8.php/@WebcamsOnline.m3u8
+#EXTINF:-1,Canal 26 (Argentina)
+https://tvradiozap.eu/tools/yt.m3u8.php/@canal26.m3u8
+#EXTINF:-1,D News
+https://tvradiozap.eu/tools/yt.m3u8.php/@dnewsok.m3u8
+#EXTINF:-1,France 24 (Espanol)
+https://tvradiozap.eu/tools/yt.m3u8.php/@France24_es.m3u8
+#EXTINF:-1,FM Vale 97.5
+https://tvradiozap.eu/tools/yt.m3u8.php/@FMVale975.m3u8
+#EXTINF:-1,Foro TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@nmas.m3u8
+#EXTINF:-1,Hipica TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@HipicaTV.m3u8
+#EXTINF:-1,Imagen Radio
+https://tvradiozap.eu/tools/yt.m3u8.php/@ImagenRadioLive.m3u8
+#EXTINF:-1,La Nacion+
+https://tvradiozap.eu/tools/yt.m3u8.php/@lanacion.m3u8
+#EXTINF:-1,Mega Noticias
+https://tvradiozap.eu/tools/yt.m3u8.php/@Meganoticiasoficial.m3u8
+#EXTINF:-1,Milenio Television
+https://tvradiozap.eu/tools/yt.m3u8.php/@milenio.m3u8
+#EXTINF:-1,News Central Africa
+https://tvradiozap.eu/tools/yt.m3u8.php/@NewsCentralAfrica.m3u8
+#EXTINF:-1,Pop Radio 101.5
+https://tvradiozap.eu/tools/yt.m3u8.php/@popradio1015.m3u8
+#EXTINF:-1,Radio Ipuc
+https://tvradiozap.eu/tools/yt.m3u8.php/@radioipuc731.m3u8
+#EXTINF:-1,Radio La Red AM
+https://tvradiozap.eu/tools/yt.m3u8.php/@radiolared.m3u8
+#EXTINF:-1,Radio Mitre
+https://tvradiozap.eu/tools/yt.m3u8.php/@Radiomitre.m3u8
+#EXTINF:-1,Television Canaria
+https://tvradiozap.eu/tools/yt.m3u8.php/@TelevisionCanaria.m3u8
+#EXTINF:-1,Todo Noticias
+https://tvradiozap.eu/tools/yt.m3u8.php/@todonoticias.m3u8
+#EXTINF:-1,Urbana Play FM
+https://tvradiozap.eu/tools/yt.m3u8.php/@UrbanaPlayFM.m3u8
+#EXTINF:-1,VPI TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@VPITVENVIVO.m3u8
+
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports a 
 http://190.11.130.46/mnp/espnpremium_hls/playlist.m3u8
 
@@ -55,7 +106,8 @@ http://190.11.130.46/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 4
 http://190.11.130.46/mnp/tntsports/output.mpd
 
-
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", tvradiozap.eu
+https://tvradiozap.eu/tools/yt.m3u8.php/@c5n.m3u8
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls-v3.onrender
 https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls.armelin
