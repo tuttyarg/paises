@@ -705,15 +705,15 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@TelevisionCanaria.m3u8
 #EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" audio-track="spa" group-title="HBO", HBO
 http://190.11.130.46/mnp/hbo/output.mpd
 #EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" audio-track="spa" group-title="HBO", HBO 2
-http://190.11.130.46/mnp/hbo2/output.mpd
+http://181.191.140.2:8000/play/a0i8/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" audio-track="spa" group-title="HBO", HBO Plus
-http://190.11.130.46/mnp/hboplus/output.mpd
+http://181.191.140.2:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" audio-track="spa" group-title="HBO", HBO Family
-http://190.11.130.46/mnp/hbofam/output.mpd
+http://181.191.140.2:8000/play/a0i9/index.m3u8
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="HBO", HBO Pop
-http://190.11.130.46/mnp/hbopop/output.mpd
+http://181.191.140.2:8000/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="HBO", HBO Xtreme
-http://190.11.130.46/mnp/hboxtr/output.mpd
+http://181.191.140.2:8000/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png" group-title="HBO", HBO Mundi
 http://190.11.130.46/mnp/hbomund/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="HBO", HBO Signature
