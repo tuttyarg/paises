@@ -951,8 +951,11 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO-AMBA", LATINA RADIO FM 101.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/15b8rnUTG093julXkG43wz8mVSb0kSD2lL57imMJZunnXpIVKHX6jW-D9lPTh4hB5I1YPT3QsQ=s160-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Metro951 Live
+https://tvradiozap.eu/tools/yt.m3u8.php/@metro951live.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRCazpNOqQcY8FaA-lP-H-SNhKKsCEQLny14r69=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", MEGA
-https://ythls-v3.onrender.com/channel/UCtloZ7xFNO9O114pkoV9a5g.m3u8
+https://tvradiozap.eu/tools/yt.m3u8.php/@Mega983FM.m3u8
 
 #EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="RADIO-AMBA", URBANA PLAY 104.3 FM 
 https://ythls-v3.onrender.com/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
