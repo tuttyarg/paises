@@ -1764,9 +1764,7 @@ https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="MENDOZA", EL SIETE MENDOZA
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0274
-#EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="MENDOZA", EL SIETE MENDOZA
 
-https://tvradiozap.eu/tools/yt.m3u8.php/@elsietemendoza.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
