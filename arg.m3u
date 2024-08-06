@@ -729,7 +729,7 @@ http://190.11.130.46/mnp/hbosig/output.mpd
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2902&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=ef648bcf-66b2-4392-befe-bff481023b6f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=840
 
 #EXTINF:-1 vg-logo="https://static-1.ivoox.com/canales/2/5/7/8/8411631878752_XXL.jpg" group-title="CINE", +CINE
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
+https://inliveserver.com:1936/8078/8078/playlist.m3u8
 
 #EXTINF:-1 vg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="CINE", TERROR TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
