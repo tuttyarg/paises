@@ -4,7 +4,7 @@
 http://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="Tango Sports", TV PUBLICA  JJOO
-http://45.172.16.186:8000/play/a0om/index.m3u8
+https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="Tango Sports", CLARO SPORTS JJOO
 https://pubads.g.doubleclick.net/ssai/event/qrZ47XNwQ6--4BaOTYV12g/master.m3u8
@@ -19,13 +19,13 @@ https://pubads.g.doubleclick.net/ssai/event/waSJNqdnQ-O7oN5y2A4NGA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/iEXSIQsvRn6HP2Ckpuah1A/master.m3u8
   
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN  
-http://45.172.16.186:8000/play/a0oq/index.m3u8
+http://181.78.27.128:8000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Tango Sports", ESPN 2
-http://45.172.16.186:8000/play/a0op/index.m3u8
+http://181.78.27.128:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Tango Sports", ESPN 3
-http://45.172.16.186:8000/play/a0or/index.m3u8
+http://181.78.27.128:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Tango Sports", ESPN 4
 http://190.11.130.46/mnp/espn_extra/output.mpd
@@ -87,7 +87,7 @@ http://181.191.140.2:8000/play/a0gf/index.m3u8
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
-http://45.172.16.186:8000/play/a0om/index.m3u8
+https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
 http://190.11.130.46/mnp/elnueve/output.mpd
