@@ -96,7 +96,7 @@ http://190.11.130.46/mnp/elnueve/output.mpd
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", EL TRECE
-http://45.172.16.186:8000/play/a0qu/index.m3u8
+http://181.209.114.13:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -175,14 +175,13 @@ http://190.11.130.46/mnp/gourmet/output.mpd
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="NACIONALES" , METRO
-http://45.172.16.186:8000/play/a0py/index.m3u8
+http://181.209.114.13:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="NACIONALES" , VOLVER
-http://45.172.16.186:8000/play/a0pj/index.m3u8
+http://181.209.114.13:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="NACIONALES" , CANAL A 
-http://45.172.16.186:8000/play/a14z/index.m3u8
-
+http://181.209.114.13:8000/play/a09j/index.m3u8
 
 
 
@@ -704,15 +703,15 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@TelevisionCanaria.m3u8
 #EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" audio-track="spa" group-title="HBO", HBO
 http://190.11.130.46/mnp/hbo/output.mpd
 #EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" audio-track="spa" group-title="HBO", HBO 2
-http://181.191.140.2:8000/play/a0i8/index.m3u8
+http://181.209.114.13:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" audio-track="spa" group-title="HBO", HBO Plus
-http://181.191.140.2:8000/play/a0i7/index.m3u8
+http://181.209.114.13:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" audio-track="spa" group-title="HBO", HBO Family
-http://181.191.140.2:8000/play/a0i9/index.m3u8
+http://181.209.114.13:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="HBO", HBO Pop
 http://181.191.140.2:8000/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="HBO", HBO Xtreme
-http://181.191.140.2:8000/play/a0fw/index.m3u8
+http://181.209.114.13:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png" group-title="HBO", HBO Mundi
 http://190.11.130.46/mnp/hbomund/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="HBO", HBO Signature
