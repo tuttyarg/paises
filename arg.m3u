@@ -58,22 +58,31 @@ http://181.209.114.13:8000/play/a078/index.m3u8
 http://181.209.114.13:8000/play/a02u/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
-http://45.5.151.151:8000/play/a0fe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 4
-http://45.5.151.151:8000/play/a002/index.m3u8
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/3204
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
-http://181.191.140.2:8000/play/a0ip/index.m3u8
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/67721
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
-http://181.191.140.2:8000/play/a0gf/index.m3u8
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/31645
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
-http://45.172.16.186:8000/play/a0rq/index.m3u8
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8
-http://45.172.16.186:8000/play/a0qc/index.m3u8 
+http://et1.xyz:25461/kayci0576/Lucky2020/214663
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
+
+http://et1.xyz:25461/kayci0576/Lucky2020/214588
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
+
+http://et1.xyz:25461/kayci0576/Lucky2020/214631
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
+
+http://et1.xyz:25461/kayci0576/Lucky2020/214655
+
+#
 
 
 
