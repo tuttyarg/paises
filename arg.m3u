@@ -67,7 +67,11 @@ http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/67721
 http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/31645
 
 
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports A
+http://190.11.130.46/mnp/tntsports_hls/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports B
+https://glewnet.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 
 
 
