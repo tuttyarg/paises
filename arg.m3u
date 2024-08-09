@@ -1374,7 +1374,7 @@ https://videostream.shockmedia.com.ar:19360/universoradio895/universoradio895.m3
 
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0214
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0212
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA
 https://ythls-v3.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
@@ -1386,7 +1386,7 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="CORDOBA", CADENA 3 CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0210
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0208
 
 #EXTINF:-1 tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo-rm-footer.png" group-title="CORDOBA", RADIO MARIA TV
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR.m3u8
@@ -1446,10 +1446,10 @@ https://stmvideo1.livecastv.com/canal2aldao/canal2aldao/playlist.m3u8
 https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3HEAT.png" group-title="CORDOBA", Cadena Heat 91.9 FM
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0211
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0209
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="CORDOBA", La Popu 92.3 FM
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0212
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0210
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EL9NeZb5ZS_dMekegkkZAcxqCl8ILxqUe2Hc_BoeNomYODo87W_aERaiHCeLCMLIjQ" group-title="CORDOBA", FM MAS TV LA CARLOTA CORDOBA
 http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
@@ -1768,7 +1768,7 @@ https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="MENDOZA", EL SIETE MENDOZA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0274
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0272
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
@@ -2150,10 +2150,10 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://ythls-v3.onrender.com/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0368
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0366
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0377
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0375
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8  
